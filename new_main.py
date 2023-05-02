@@ -9,7 +9,7 @@ def print_hello():
     names = [
             'John',
             'Jane',
-            'Gill-dong',
+            'Gill-donfg',
             'DoJaGi',
     ]# w/ trailing comma
     for f_name in names:
