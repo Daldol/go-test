@@ -17,7 +17,7 @@ $ git clone {repo address}
 $ cd {repo name}
 $ vi README.md
 ```
-
+Now, I am DoDoing practice
 ## How to Start
 ```python
 def hello(name):
